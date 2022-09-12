@@ -1,1 +1,3 @@
 # Gold-Exchange
+
+For Beginners :)
